@@ -1,0 +1,1 @@
+Di pertemuan pertama ini kita melakukan perkenalan terhadap Cloud Computing dan cara mendapatkan akun oracle, kita diperkenalkan jenis layanan apa saja yang digunakan seperti software, platform, dan infrastruktur. dan kita juga diajarkan bagaimana caranya mendapatkan akun oracle secara gratis  
