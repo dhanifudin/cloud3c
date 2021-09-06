@@ -26,7 +26,7 @@ Pada pertemuan pertama membahas tentang Cloud Computing merupakan proses penyimp
 -Mudahnya melakukan kerja sama dengan lebih dari satu individu
 -Akses pada cloud computing sangat mudah dan dapat dilakukan melalui platform apapun yang mendukung.
 
-##Kekurangan penggunaan Cloud Computing:
+## Kekurangan penggunaan Cloud Computing:
 -Membutuhkan koneksi Internet yang konstan
 -Tidak berjalan dengan baik apabila rendahnya kecepatan jaringan
 -Fitur-fitur yang terbatas
