@@ -2,7 +2,7 @@
 
 Pada pertemuan pertama membahas tentang Cloud Computing merupakan proses penyimpanan dan mengakses data melalui program yang dibuat oleh provider, dengan menggunakan internet. 
 
-##karakteristik yang mendefinisikan data cloud, layanan aplikasi, dan infrastruktur:
+## karakteristik yang mendefinisikan data cloud, layanan aplikasi, dan infrastruktur:
 -Dihosting dari jarak jauh
 -Ubiquitous(Layanan atau data tersedia dari mana saja.)
 -Dikomodifikasi: 
@@ -19,7 +19,7 @@ Pada pertemuan pertama membahas tentang Cloud Computing merupakan proses penyimp
     - Amazon Web Services
     - Rockspace Hosting
 
-##Keuntungan penggunaan Cloud Computing:
+## Keuntungan penggunaan Cloud Computing:
 -Biaya komputer yang lebih rendah
 -Mengurangi biaya perangkat lunak
 -Kapasitas penyimpanan tidak terbatas
